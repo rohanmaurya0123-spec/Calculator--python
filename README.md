@@ -7,7 +7,7 @@ while True:
     operator = input("Enter :'+,-,*,/:'"   )
     b = int(input("Enter your second number: "))
 
-    try:
+ try:
         if operator == '+':
             print("The value is ",a + b )
         elif operator == "-":
