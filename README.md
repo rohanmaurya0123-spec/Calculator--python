@@ -1,5 +1,5 @@
-# Calculator--python
-This is calculator by using python programme that conduct simple calculation
+''' Calculator--python
+This is calculator by using python programme that conduct simple calculation'''
 
 while True:
     print("\n======= PYTHON CALCULATORM ========")
